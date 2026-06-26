@@ -1,6 +1,10 @@
-# CPU Scheduling Algorithms Animated Simulator (CPUSAAS)
+# CPUSAAS: An Animated CPU Scheduling Algorithm Simulator
 
 A web-based application for simulating and visualizing CPU scheduling algorithms.
+
+<p>
+  <img src="./cpusaas.gif">
+</p>
 
 ## Features
 
